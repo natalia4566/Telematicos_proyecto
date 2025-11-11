@@ -1,0 +1,8 @@
+# Ignorar Vagrant y máquinas virtuales
+.vagrant/
+
+# Ignorar node_modules
+app/node_modules/
+
+# Ignorar logs
+*.log
